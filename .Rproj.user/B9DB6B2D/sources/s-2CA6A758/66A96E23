@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601175912528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "785616701",
+    "id" : "66A96E23",
+    "lastKnownWriteTime" : 1601176912,
+    "last_content_update" : 1601176912617,
+    "path" : "E:/Git_l7/TFIA/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "1,29",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
